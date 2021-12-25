@@ -1,7 +1,4 @@
-# CSCI-B551 FA2021 Assignment 1
-
-### Group Members: Aashay Gondalia (aagond), Harsh Atha (hatha)
-
+# Search Problems
 
 ## Part 1: The 2021 Puzzle
 
